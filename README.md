@@ -10,7 +10,7 @@ Above is the result of the xgboost.py code(1393/4378) without any feature engine
 For xgboost.py, you need:
 * pandas
 * numpy
-* sklearn
+* scikit-learn
 * xgboost
 
 For feature_ana.ipynb, you need:
@@ -19,6 +19,7 @@ For feature_ana.ipynb, you need:
 * seaborn
 * numpy
 * scipy
+* scikit-learn
 
 # Usage
 ```bash
